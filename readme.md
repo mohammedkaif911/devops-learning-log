@@ -1,4 +1,4 @@
-# 🚀 34-Week Cloud, DevOps & SRE Learning Journey
+#  34-Week Cloud, DevOps & SRE Learning Journey
 
 Welcome to my daily, hands-on engineering log. I am currently a 4th-year Computer Science student. This repository is my daily "proof of work" as I progress through a rigorous, 34-week curriculum to master **systems engineering, automation scripting, cloud architecture, and Site Reliability Engineering (SRE)**.
 
@@ -6,7 +6,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 ---
 
-## 🗺️ Curriculum Blueprint & Timeline
+##  Curriculum Blueprint & Timeline
 
 | Phase | Title | Focus Areas | Status |
 | :--- | :--- | :--- | :---: |
@@ -18,7 +18,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 ---
 
-## 📅 Week 1 Progress: Web Mechanics & Linux OS Foundations
+##  Week 1 Progress: Web Mechanics & Linux OS Foundations
 
 - **Day 1:** The Client-Server Model & DNS 4-Step Lookup.
 - **Day 2:** HTTP Safety and Idempotency properties (GET, POST, PUT, DELETE).
