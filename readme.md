@@ -26,3 +26,8 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Day 4:** Linux Filesystem Standard (FHS) and Basic Terminal Navigation.
 - **Day 5:** Linux Permissions and Security (chmod/chown/umask) and HackerRank Algorithms.
 - **Day 6:** Week 1 Memory Audit & Consolidation.
+
+
+- **Week 2 Day 1:** Linux Process Engineering (PIDs, PPIDs, UIDs), Signals (SIGTERM/SIGKILL), systemd/systemctl daemons, and Big-O notation.
+
+ACTIVE as hell!! ;)
