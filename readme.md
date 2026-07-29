@@ -27,6 +27,8 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Day 5:** Linux Permissions and Security (chmod/chown/umask) and HackerRank Algorithms.
 - **Day 6:** Week 1 Memory Audit & Consolidation.
 
+## The HR written in my python file name refers to the HACKERRANK problems.
+
 
 - **Week 2 Day 1:** Linux Process Engineering (PIDs, PPIDs, UIDs), Signals (SIGTERM/SIGKILL), systemd/systemctl daemons, and Big-O notation.
 
