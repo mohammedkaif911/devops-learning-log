@@ -4,6 +4,7 @@ Welcome to my daily, hands-on engineering log. I am currently a 4th-year Compute
 
 This repository is updated every single day with raw terminal logs, infrastructure automation scripts, system design notes, and algorithm challenges.
 
+## COMPLETING MULTIPLE DAYS OF ROADMAP IN A SINGLE DAY SO THE COMMITS I DO CAN BE NOT MATCHING WITH THE REAL TIME:(
 ---
 
 ##  Curriculum Blueprint & Timeline
@@ -17,7 +18,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 | **Phase 5** | **Capstone & Portfolio** | Production-grade Architectures & System Design | *Upcoming* |
 
 ---
-
+## COMPLETING MULTIPLE DAYS OF ROADMAP IN A SINGLE DAY SO THE COMMITS I DO CAN BE NOT MATCHING WITH THE REAL TIME:(
 ##  Week 1 Progress: Web Mechanics & Linux OS Foundations
 
 - **Day 1:** The Client-Server Model & DNS 4-Step Lookup.
