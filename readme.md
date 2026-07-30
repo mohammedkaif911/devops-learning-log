@@ -32,5 +32,8 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 
 - **Week 2 Day 1:** Linux Process Engineering (PIDs, PPIDs, UIDs), Signals (SIGTERM/SIGKILL), systemd/systemctl daemons, and Big-O notation.
+- **Week 2 Day 2:** OMG! tired to present here.
+- **Week 2 Day 3:** install/remove/update/search packages, uploaded my first website online thanks to git for free domain :)
+- **Week 2 Day 4:** SSH Key Cryptography, Server Fingerprints (known_hosts), LeetCode Contains Duplicate, and Maximum Subarray (Kadane's Algorithm).
 
 ACTIVE as hell!! ;)
