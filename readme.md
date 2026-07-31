@@ -35,5 +35,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Week 2 Day 2:** OMG! tired to present here.
 - **Week 2 Day 3:** install/remove/update/search packages, uploaded my first website online thanks to git for free domain :)
 - **Week 2 Day 4:** SSH Key Cryptography, Server Fingerprints (known_hosts), LeetCode Contains Duplicate, and Maximum Subarray (Kadane's Algorithm).
+- **Week 2 Day 5:** Persistent Shell Customization (~/.bashrc), Terminal Aliases, LeetCode Move Zeroes, and Merge Sorted Array.
 
 ACTIVE as hell!! ;)
