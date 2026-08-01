@@ -41,4 +41,28 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Week 3 Day 1:** Bash Scripting Foundations (Variables, loops, Shebang), Dictionary/Hash Map architecture, O(N) LeetCode Two Sum, and a bulk file renamer automation script.
 - **Week 3 Day 2:** Bash Function Scopes & CLI Arguments ($1, $2, $#), LeetCode Single Number (XOR Bitwise Hack), Valid Palindrome (List Sanitization), and an automated system backup script.
 - **Week 3 Day 3:** Git Architecture (Working, Staging, Local Repo), VCS Time-Travel commands (git checkout), LeetCode Two Sum II (Sorted Squeeze), and Remove Duplicates (100% Optimized).
+
+
 ACTIVE as hell!! ;)
+
+
+## 🛠️ Tech Stack & Verified Badges
+
+### Core Capabilities:
+* **Operating Systems:** Linux (Ubuntu/WSL2), Shell Navigation, Process Management, User/Group Administration
+* **Network Infrastructure:** DNS Hierarchy, CNAME/TXT/MX Configurations, HTTP Protocol Architecture
+* **Automation Scripting:** Python 3 (Control Flow, Collections, Functional Modularity), Bash/Shell Scripting
+
+### Professional Credentials:
+* **HackerRank Profile:** [Mohammed Kaif on HackerRank]## 🛠️ Tech Stack & Verified Badges
+
+### Core Capabilities:
+* **Operating Systems:** Linux (Ubuntu/WSL2), Shell Navigation, Process Management, User/Group Administration
+* **Network Infrastructure:** DNS Hierarchy, CNAME/TXT/MX Configurations, HTTP Protocol Architecture
+* **Automation Scripting:** Python 3 (Control Flow, Collections, Functional Modularity), Bash/Shell Scripting
+
+### Professional Credentials:
+* **HackerRank Profile:** [Mohammed Kaif on HackerRank](https://www.hackerrank.com/profile/mohammedkaif9111)
+* **Verified Badges:**
+  - ![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_⭐⭐⭐-2EC866?style=flat&logo=hackerrank&logoColor=white)
+  - ![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving_⭐⭐-2EC866?style=flat&logo=hackerrank&logoColor=white)
