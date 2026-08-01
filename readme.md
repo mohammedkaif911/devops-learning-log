@@ -39,5 +39,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Week 2 Day 6:** Solved two leetcode problems (LC.Anagram.py and LC_GroupAnagram.py), Learned about hashing, and build a terminal war game in a new repo (MK_Wargame)
 
 - **Week 3 Day 1:** Bash Scripting Foundations (Variables, loops, Shebang), Dictionary/Hash Map architecture, O(N) LeetCode Two Sum, and a bulk file renamer automation script.
+- **Week 3 Day 2:** Bash Function Scopes & CLI Arguments ($1, $2, $#), LeetCode Single Number (XOR Bitwise Hack), Valid Palindrome (List Sanitization), and an automated system backup script.
 
 ACTIVE as hell!! ;)
