@@ -1,0 +1,6 @@
+i-019a2b3c:running:12.50:active
+i-028b3c4d:running:45.00:idle
+i-037c4d5e:stopped:0.00:inactive
+i-046d5e6f:running:8.00:active
+i-055e6f7g:running:95.00:idle
+i-064f7g8h:stopped:0.00:inactive
