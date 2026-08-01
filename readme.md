@@ -40,5 +40,5 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 - **Week 3 Day 1:** Bash Scripting Foundations (Variables, loops, Shebang), Dictionary/Hash Map architecture, O(N) LeetCode Two Sum, and a bulk file renamer automation script.
 - **Week 3 Day 2:** Bash Function Scopes & CLI Arguments ($1, $2, $#), LeetCode Single Number (XOR Bitwise Hack), Valid Palindrome (List Sanitization), and an automated system backup script.
-
+- **Week 3 Day 3:** Git Architecture (Working, Staging, Local Repo), VCS Time-Travel commands (git checkout), LeetCode Two Sum II (Sorted Squeeze), and Remove Duplicates (100% Optimized).
 ACTIVE as hell!! ;)
