@@ -36,5 +36,8 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Week 2 Day 3:** install/remove/update/search packages, uploaded my first website online thanks to git for free domain :)
 - **Week 2 Day 4:** SSH Key Cryptography, Server Fingerprints (known_hosts), LeetCode Contains Duplicate, and Maximum Subarray (Kadane's Algorithm).
 - **Week 2 Day 5:** Persistent Shell Customization (~/.bashrc), Terminal Aliases, LeetCode Move Zeroes, and Merge Sorted Array.
+- **Week 2 Day 6:** Solved two leetcode problems (LC.Anagram.py and LC_GroupAnagram.py), Learned about hashing, and build a terminal war game in a new repo (MK_Wargame)
+
+- **Week 3 Day 1:** Bash Scripting Foundations (Variables, loops, Shebang), Dictionary/Hash Map architecture, O(N) LeetCode Two Sum, and a bulk file renamer automation script.
 
 ACTIVE as hell!! ;)
