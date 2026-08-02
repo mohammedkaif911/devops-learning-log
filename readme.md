@@ -63,6 +63,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 - **Week 3 Day 2:** Bash Function Scopes & CLI Arguments ($1, $2, $#), LeetCode Single Number (XOR Bitwise Hack), Valid Palindrome (List Sanitization), and an automated system backup script.
 - **Week 3 Day 3:** Git Architecture (Working, Staging, Local Repo), VCS Time-Travel commands (git checkout), LeetCode Two Sum II (Sorted Squeeze), and Remove Duplicates (100% Optimized).
 - **Week 3 Day 4:** Git Branching (branch, checkout, merge), resolving manual Merge Conflicts, LeetCode Container With Most Water (Medium), and 3Sum (Medium).
+- **Week 3 Day 5:** Dynamic Sliding Window algorithms (Maximum Average Subarray, Longest Substring Without Repeating Characters), and opening my first GitHub Pull Request (PR).
 
 
 ACTIVE as hell!! ;)
