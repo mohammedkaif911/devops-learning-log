@@ -1,1 +1,1 @@
-Original system configuration parameters.
+Feature branch configuration settings.
