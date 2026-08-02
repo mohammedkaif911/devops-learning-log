@@ -1,1 +1,1 @@
-Original system configuration parameters.
+Main branch stable parameters.
