@@ -1,7 +1,7 @@
 import sys
 
 if (len(sys.argv) -1) < 1:
-    priint("Error: Missing port parameter. Usage: python3 port_auditor.py [port_number]")
+    print("Error: Missing port parameter. Usage: python3 port_auditor.py [port_number]")
     sys.exit(1)
 
 port = sys.argv[1]
