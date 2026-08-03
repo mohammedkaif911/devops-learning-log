@@ -59,5 +59,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Day 3:** Git Architecture (Working, Staging, Local Repo), VCS Time-Travel commands (git checkout), LeetCode Two Sum II (Sorted Squeeze), and Remove Duplicates (100% Optimized).
 * **Day 4:** Git Branching (branch, checkout, merge), resolving manual Merge Conflicts, LeetCode Container With Most Water (Medium), and 3Sum (Medium).
 * **Day 5:** Collaborative VCS Pipelines, opening/merging my first GitHub Pull Request (PR), LeetCode Maximum Average Subarray, and Longest Substring Without Repeating Characters.
+- **Day 6:** SRE Automation Scripting (Disk audits, recursive log purgers, and automated self-healing daemons), LeetCode Minimum Size Subarray Sum (Medium), and Best Time to Buy/Sell Stock (Sliding Window style).
 
 ACTIVE as hell!! ;)
