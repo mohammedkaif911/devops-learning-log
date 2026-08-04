@@ -61,4 +61,9 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Day 5:** Collaborative VCS Pipelines, opening/merging my first GitHub Pull Request (PR), LeetCode Maximum Average Subarray, and Longest Substring Without Repeating Characters.
 - **Day 6:** SRE Automation Scripting (Disk audits, recursive log purgers, and automated self-healing daemons), LeetCode Minimum Size Subarray Sum (Medium), and Best Time to Buy/Sell Stock (Sliding Window style).
 
+### 📦 Week 4 Progress: Python Deep-Dives & Advanced OOP Scripting
+* **Day 1:** Python Memory Physics (Pointers & Mutability), Short-Circuit CPU optimizations, LIFO Stacks, LeetCode Reverse String, Valid Parentheses (100% Optimized), and Defensive Exception Handling (try/except).
+* **Day 2:** Advanced Python Collections (Lists, Tuples, Sets, Dicts), List & Dict Comprehensions, LeetCode Longest Common Prefix (100% Optimized), and Implement strStr() (100% Optimized).
+
+
 ACTIVE as hell!! ;)
