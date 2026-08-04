@@ -12,7 +12,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 | Phase | Title | Focus Areas | Status |
 | :-- | :-- | :-- | :-: |
-| **Phase 1** | **Foundations** | Linux CLI, Python Scripting, Git, Networking | **In Progress (Week 3)** |
+| **Phase 1** | **Foundations** | Linux CLI, Python Scripting, Git, Networking | **In Progress (Week 4)** |
 | **Phase 2** | **Core Cloud & Containers** | AWS (VPC, IAM, EC2, Lambda), Docker, SQL | *Upcoming* |
 | **Phase 3** | **Orchestration & IaC** | Kubernetes (K8s), Terraform, Ansible | *Upcoming* |
 | **Phase 4** | **GitOps, CI/CD & Observability** | GitHub Actions, ArgoCD, Prometheus, Grafana | *Upcoming* |
