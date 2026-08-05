@@ -65,6 +65,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Day 1:** Python Memory Physics (Pointers & Mutability), Short-Circuit CPU optimizations, LIFO Stacks, LeetCode Reverse String, Valid Parentheses (100% Optimized), and Defensive Exception Handling (try/except).
 * **Day 2:** Advanced Python Collections (Lists, Tuples, Sets, Dicts), List & Dict Comprehensions, LeetCode Longest Common Prefix (100% Optimized), and Implement strStr() (100% Optimized).
 * **Day 3:** SRE Python Refactoring & Migration, positional arguments (*args), keyword arguments (**kwargs), namespace scopes, and Big-O computational complexity audits.
+- **Week 4 Day 4:** OOP Inheritance & Super Constructor (`super()`), LeetCode Isomorphic Strings (O(N) Dual-Map), and Fibonacci Number (O(N) Iterative Swap).
 
 
 
