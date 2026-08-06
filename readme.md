@@ -59,13 +59,14 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Day 3:** Git Architecture (Working, Staging, Local Repo), VCS Time-Travel commands (git checkout), LeetCode Two Sum II (Sorted Squeeze), and Remove Duplicates (100% Optimized).
 * **Day 4:** Git Branching (branch, checkout, merge), resolving manual Merge Conflicts, LeetCode Container With Most Water (Medium), and 3Sum (Medium).
 * **Day 5:** Collaborative VCS Pipelines, opening/merging my first GitHub Pull Request (PR), LeetCode Maximum Average Subarray, and Longest Substring Without Repeating Characters.
-- **Day 6:** SRE Automation Scripting (Disk audits, recursive log purgers, and automated self-healing daemons), LeetCode Minimum Size Subarray Sum (Medium), and Best Time to Buy/Sell Stock (Sliding Window style).
+* **Day 6:** SRE Automation Scripting (Disk audits, recursive log purgers, and automated self-healing daemons), LeetCode Minimum Size Subarray Sum (Medium), and Best Time to Buy/Sell Stock (Sliding Window style).
 
 ### 📦 Week 4 Progress: Python Deep-Dives & Advanced OOP Scripting
 * **Day 1:** Python Memory Physics (Pointers & Mutability), Short-Circuit CPU optimizations, LIFO Stacks, LeetCode Reverse String, Valid Parentheses (100% Optimized), and Defensive Exception Handling (try/except).
 * **Day 2:** Advanced Python Collections (Lists, Tuples, Sets, Dicts), List & Dict Comprehensions, LeetCode Longest Common Prefix (100% Optimized), and Implement strStr() (100% Optimized).
 * **Day 3:** SRE Python Refactoring & Migration, positional arguments (*args), keyword arguments (**kwargs), namespace scopes, and Big-O computational complexity audits.
-- **Week 4 Day 4:** OOP Inheritance & Super Constructor (`super()`), LeetCode Isomorphic Strings (O(N) Dual-Map), and Fibonacci Number (O(N) Iterative Swap).
+* **Week 4 Day 4:** OOP Inheritance & Super Constructor (`super()`), LeetCode Isomorphic Strings (O(N) Dual-Map), and Fibonacci Number (O(N) Iterative Swap).
+* **Week 4 Day 5:** File Stream Context Managers (`with`), try/except Exception Handlers, Recursion & The Call Stack, LeetCode Power of Two, Climbing Stairs (100% Optimized), and a secure CSV sales database auditor.
 
 
 
