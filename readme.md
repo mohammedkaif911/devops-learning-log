@@ -67,6 +67,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Day 3:** SRE Python Refactoring & Migration, positional arguments (*args), keyword arguments (**kwargs), namespace scopes, and Big-O computational complexity audits.
 * **Week 4 Day 4:** OOP Inheritance & Super Constructor (`super()`), LeetCode Isomorphic Strings (O(N) Dual-Map), and Fibonacci Number (O(N) Iterative Swap).
 * **Week 4 Day 5:** File Stream Context Managers (`with`), try/except Exception Handlers, Recursion & The Call Stack, LeetCode Power of Two, Climbing Stairs (100% Optimized), and a secure CSV sales database auditor.
+* **Week 4 Day 6:** Python Virtual Environments (`venv`), Dependency managers (`pip`), exporting `requirements.txt` manifests, and advanced recursive algorithms (String Reversal, Digit Sums).
 
 
 
