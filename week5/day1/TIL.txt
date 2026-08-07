@@ -1,0 +1,5 @@
+OSI 7 layer model
+Application layer
+Transport layer
+Network layer
+Physical layer

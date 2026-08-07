@@ -69,6 +69,8 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 4 Day 5:** File Stream Context Managers (`with`), try/except Exception Handlers, Recursion & The Call Stack, LeetCode Power of Two, Climbing Stairs (100% Optimized), and a secure CSV sales database auditor.
 * **Week 4 Day 6:** Python Virtual Environments (`venv`), Dependency managers (`pip`), exporting `requirements.txt` manifests, and advanced recursive algorithms (String Reversal, Digit Sums).
 
+### 📦 Week 5 Progress: Networking Deep
+* **Week 5 Day 1:** The OSI 7-Layer Model, TCP vs. UDP protocols, and LeetCode Binary Search & Search Insert Position (100% Optimized).
 
 
 ACTIVE as hell!! ;)
