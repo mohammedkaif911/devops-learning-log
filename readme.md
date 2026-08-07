@@ -71,6 +71,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 ### 📦 Week 5 Progress: Networking Deep
 * **Week 5 Day 1:** The OSI 7-Layer Model, TCP vs. UDP protocols, and LeetCode Binary Search & Search Insert Position (100% Optimized).
+* **Week 5 Day 2:** IP Subnetting & CIDR Math, WSL2 Network Interface Auditing, LeetCode #69 Sqrt(x) with register optimization, and optimized Bubble Sort.
 
 
 ACTIVE as hell!! ;)
