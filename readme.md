@@ -4,7 +4,7 @@ Welcome to my daily, hands-on engineering log. I am currently a 4th-year Compute
 
 This repository is updated every single day with raw terminal logs, infrastructure automation scripts, system design notes, and algorithm challenges.
 
-### COMPLETING MULTIPLE DAYS OF ROADMAP IN A SINGLE DAY SO THE COMMITS I DO CAN BE NOT MATCHING WITH THE REAL TIME:(
+### *Note on Commit Velocity: I frequently complete multiple roadmap modules in a single session, which may cause commit timestamps to reflect high-velocity acceleration rather than standard real-time intervals.*
 
 ---
 
