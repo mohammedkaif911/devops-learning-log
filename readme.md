@@ -73,6 +73,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 5 Day 1:** The OSI 7-Layer Model, TCP vs. UDP protocols, and LeetCode Binary Search & Search Insert Position (100% Optimized).
 * **Week 5 Day 2:** IP Subnetting & CIDR Math, WSL2 Network Interface Auditing, LeetCode #69 Sqrt(x) with register optimization, and optimized Bubble Sort.
 * **Week 5 Day 3:** DNS Record types (A, CNAME, MX, TXT SPF rules), recursive Merge Sort ($O(N \log N)$), and LeetCode #153 Rotated Sorted Array minimum search.
-
+* **Week 5 Day 4:** Load Balancing Architectures (L4 TCP/UDP vs L7 HTTP content-aware, Sticky Sessions), and LeetCode #33 Search in Rotated Sorted Array (100% Optimized).
 
 ACTIVE as hell!! ;)
