@@ -75,5 +75,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 5 Day 3:** DNS Record types (A, CNAME, MX, TXT SPF rules), recursive Merge Sort ($O(N \log N)$), and LeetCode #153 Rotated Sorted Array minimum search.
 * **Week 5 Day 4:** Load Balancing Architectures (L4 TCP/UDP vs L7 HTTP content-aware, Sticky Sessions), and LeetCode #33 Search in Rotated Sorted Array (100% Optimized).
 * **Week 5 Day 5:** TLS/SSL Handshake (verbose tracing, post-quantum ciphers), VPN tunneling vs DNS hacks, LeetCode #232 Queue using Stacks (First Queue/Stack problem!), and LeetCode #155 Min Stack (100% Optimized).
+* **Week 5 Day 6:** SRE Network Diagnostics Arsenal (ping, traceroute, dig, netstat, curl -v) across 5 live incident scenarios, a from-memory networking cheat sheet, LeetCode #682 Baseball Game (100% Optimized), and LeetCode #739 Daily Temperatures (first Monotonic Stack pattern, O(N) via the push-once/pop-once accounting argument).
 
 ACTIVE as hell!! ;)
