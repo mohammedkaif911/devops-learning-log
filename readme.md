@@ -77,4 +77,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 5 Day 5:** TLS/SSL Handshake (verbose tracing, post-quantum ciphers), VPN tunneling vs DNS hacks, LeetCode #232 Queue using Stacks (First Queue/Stack problem!), and LeetCode #155 Min Stack (100% Optimized).
 * **Week 5 Day 6:** SRE Network Diagnostics Arsenal (ping, traceroute, dig, netstat, curl -v) across 5 live incident scenarios, a from-memory networking cheat sheet, LeetCode #682 Baseball Game (100% Optimized), and LeetCode #739 Daily Temperatures (first Monotonic Stack pattern, O(N) via the push-once/pop-once accounting argument).
 
+### 📦 Week 6 Progress: REST APIs + Python for Automation
+* **Week 6 Day 1:** REST API Architecture mastery (resources & endpoints, HTTP methods & idempotency, statelessness, JSON anatomy, headers, Bearer/JWT auth), live GitHub API interrogation lab with rate-limit observation, LeetCode #150 Evaluate RPN (100% Optimized), and LeetCode #206 Reverse Linked List — first linked list ever, foundations built from raw nodes (100% Optimized).
+
 ACTIVE as hell!! ;)
