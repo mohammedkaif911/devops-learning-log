@@ -80,5 +80,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 ### 📦 Week 6 Progress: REST APIs + Python for Automation
 * **Week 6 Day 1:** REST API Architecture mastery (resources & endpoints, HTTP methods & idempotency, statelessness, JSON anatomy, headers, Bearer/JWT auth), live GitHub API interrogation lab with rate-limit observation, LeetCode #150 Evaluate RPN (100% Optimized), and LeetCode #206 Reverse Linked List — first linked list ever, foundations built from raw nodes (100% Optimized).
 * **Week 6 Day 2:** Python `requests` mastery (Response object, params dicts, POST/201, error guarding, Bearer headers), PUT/PATCH/POST revision gate, a live 3-API automation script, LeetCode #21 Merge Two Sorted Lists (100% Optimized), and LeetCode #141 Linked List Cycle via Floyd's Tortoise & Hare (O(N)/O(1) provably optimal).
+* **Week 6 Day 3:** First CLI tool engineered and shipped (ghinfo — GitHub API interrogation with argparse & dual error guarding), requests-from-memory revision gate, LeetCode #876 Middle of the Linked List (solo first try, 100% Optimized), and LeetCode #19 Remove Nth Node From End with dummy-sentinel surgery (100% Optimized).
 
 ACTIVE as hell!! ;)
