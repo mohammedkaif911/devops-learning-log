@@ -13,7 +13,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 | Phase | Title | Focus Areas | Status |
 | :-- | :-- | :-- | :-: |
 | **Phase 1** | **Foundations** | Linux CLI, Python Scripting, Git, Networking | **COMPLETED** |
-| **Phase 2** | **Core Cloud & Containers** | AWS (VPC, IAM, EC2, Lambda), Docker, SQL | **WEEK-5** |
+| **Phase 2** | **Core Cloud & Containers** | AWS (VPC, IAM, EC2, Lambda), Docker, SQL | **WEEK-7** |
 | **Phase 3** | **Orchestration & IaC** | Kubernetes (K8s), Terraform, Ansible | *Upcoming* |
 | **Phase 4** | **GitOps, CI/CD & Observability** | GitHub Actions, ArgoCD, Prometheus, Grafana | *Upcoming* |
 | **Phase 5** | **Capstone & Portfolio** | Production-grade Architectures & System Design | *Upcoming* |
@@ -83,5 +83,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 6 Day 3:** First CLI tool engineered and shipped (ghinfo — GitHub API interrogation with argparse & dual error guarding), requests-from-memory revision gate, LeetCode #876 Middle of the Linked List (solo first try, 100% Optimized), and LeetCode #19 Remove Nth Node From End with dummy-sentinel surgery (100% Optimized).
 * **Week 6 Day 4:** Evidence Court morning (cold re-solves of Merge/Middle/Remove-Nth — all ALIVE), LeetCode #2 Add Two Numbers with carry-propagation, LeetCode #143 Reorder List — the linked list capstone fusing middle + reversal + the weave (100% Optimized), and TREES BEGUN: recursion foundations + LeetCode #104 Max Depth (100% Optimized). Shipped ghinfo v2 TTL cache to the new devops-toolkit repo.
 * **Week 6 Day 5:** Entered AWS through boto3 and the credential chain, completed the first authenticated S3 `list_buckets` call against a blank account, enforced IAM/cost-safety guardrails, and solved recursive tree problems #226 Invert Binary Tree and #100 Same Tree at 0 ms.
+* **Week 6 Day 6:** Consolidated boto3's credential chain, hardened root/IAM console access with MFA, proved least privilege through an EC2 `UnauthorizedOperation` → minimal inline-policy → successful empty-inventory experiment, and solved #94 Inorder Traversal and #101 Symmetric Tree at 0 ms.
 
 ACTIVE as hell!! ;)
