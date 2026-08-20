@@ -85,4 +85,7 @@ This repository is updated every single day with raw terminal logs, infrastructu
 * **Week 6 Day 5:** Entered AWS through boto3 and the credential chain, completed the first authenticated S3 `list_buckets` call against a blank account, enforced IAM/cost-safety guardrails, and solved recursive tree problems #226 Invert Binary Tree and #100 Same Tree at 0 ms.
 * **Week 6 Day 6:** Consolidated boto3's credential chain, hardened root/IAM console access with MFA, proved least privilege through an EC2 `UnauthorizedOperation` → minimal inline-policy → successful empty-inventory experiment, and solved #94 Inorder Traversal and #101 Symmetric Tree at 0 ms.
 
+### 📦 Week 7 Progress: AWS Fundamentals, BSTs & Cloud Resume Foundations
+* **Week 7 Day 1:** Deepened IAM through authentication vs authorization, users/groups/roles, policy anatomy and evaluation, explicit-Deny precedence, policy types, least privilege, and a formal AWS cost gate; entered BSTs with #98 Validate BST and #701 Insert into BST at 3 ms, while cold-verifying #226 Invert Binary Tree at 0 ms.
+
 ACTIVE as hell!! ;)
