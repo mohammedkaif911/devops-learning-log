@@ -87,5 +87,6 @@ This repository is updated every single day with raw terminal logs, infrastructu
 
 ### 📦 Week 7 Progress: AWS Fundamentals, BSTs & Cloud Resume Foundations
 * **Week 7 Day 1:** Deepened IAM through authentication vs authorization, users/groups/roles, policy anatomy and evaluation, explicit-Deny precedence, policy types, least privilege, and a formal AWS cost gate; entered BSTs with #98 Validate BST and #701 Insert into BST at 3 ms, while cold-verifying #226 Invert Binary Tree at 0 ms.
+* **Week 7 Day 2:** Completed a tightly cost-gated paid EC2 lifecycle in Hyderabad with temporary least-privilege permissions, official Amazon Linux on `t3.micro`, SSH restricted to My IP `/32`, runtime evidence, termination, and full orphan cleanup; solved #235 LCA of a BST (62 ms) and #230 Kth Smallest in a BST (3 ms).
 
 ACTIVE as hell!! ;)
